@@ -1,5 +1,5 @@
 (function(d) {
-  var base = "//lab.lepture.com/github-cards/";
+  var base = "https://github.com/nicolezattarin/github-cards";
 
   var i, count = 0;
 
